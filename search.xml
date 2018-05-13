@@ -5,8 +5,7 @@
     <entry>
       <title><![CDATA[hexo教程]]></title>
       <url>/2018/05/14/hexo%E6%95%99%E7%A8%8B/</url>
-      <content type="html"><![CDATA[<p>skdjhfgakjhlk</p>
-]]></content>
+      <content type="html"><![CDATA[<h2 id="hexo介绍"><a href="#hexo介绍" class="headerlink" title="hexo介绍"></a>hexo介绍</h2><h2 id="hexo实践"><a href="#hexo实践" class="headerlink" title="hexo实践"></a>hexo实践</h2>]]></content>
       
         
     </entry>
@@ -15,27 +14,27 @@
   
     
     <entry>
-      <title><![CDATA[about]]></title>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[<p>程序员，操盘手，极简主义者</p>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[archives]]></title>
       <url>/archives/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
+      <title><![CDATA[about]]></title>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<p>程序员，喜欢研究金融，极简主义</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
