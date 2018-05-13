@@ -2,14 +2,17 @@
 <search> 
   
     
-  
-  
-    
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
+      <title><![CDATA[hexo教程]]></title>
+      <url>/2018/05/14/hexo%E6%95%99%E7%A8%8B/</url>
+      <content type="html"><![CDATA[<p>skdjhfgakjhlk</p>
+]]></content>
+      
+        
     </entry>
+    
+  
+  
     
     <entry>
       <title><![CDATA[about]]></title>
@@ -27,6 +30,12 @@
     <entry>
       <title><![CDATA[tags]]></title>
       <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
