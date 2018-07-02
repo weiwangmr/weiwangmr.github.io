@@ -43,12 +43,6 @@
   
     
     <entry>
-      <title><![CDATA[archives]]></title>
-      <url>/archives/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[about]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>程序员，喜欢研究金融，极简主义</p>
@@ -56,14 +50,20 @@
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
+      <title><![CDATA[archives]]></title>
+      <url>/archives/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[tags]]></title>
       <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
